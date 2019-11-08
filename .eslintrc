@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "plugin:vue/essential"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module"
+  },
+  "rules": {
+    "no-console": "off"
+  }
+}
